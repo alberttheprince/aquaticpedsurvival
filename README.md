@@ -7,9 +7,9 @@ A simple drag and drop resource for ensuring aquatic peds in FiveM can survive o
 
 This resource was made so that peds that use fish, shark, and other aquatic animal skeletons/metas could survive out of land when used by a player. 
 
-# This resource was made to allow you to use our Burmese Python ped on land, [buy it here](https://popcornrp-store.tebex.io/package/6846326)!
+## This resource was made to allow you to use our Burmese Python. [Buy it Here](https://popcornrp-store.tebex.io/package/6846326) / [Preview Video](https://www.youtube.com/watch?v=FbyFHM10A2Q)
 
-[Preview Video Here](https://www.youtube.com/watch?v=FbyFHM10A2Q)
+
 
 # Features
 - Keeps any aquatic ped added to the config alive, if it leaves water, is switched to while on land, or when logged in
